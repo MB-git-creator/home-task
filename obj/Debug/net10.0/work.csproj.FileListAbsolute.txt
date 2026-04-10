@@ -12,3 +12,4 @@ C:\Users\user\Desktop\work\obj\Debug\net10.0\refint\work.dll
 C:\Users\user\Desktop\work\obj\Debug\net10.0\work.pdb
 C:\Users\user\Desktop\work\obj\Debug\net10.0\work.genruntimeconfig.cache
 C:\Users\user\Desktop\work\obj\Debug\net10.0\ref\work.dll
+C:\Users\user\Desktop\work\obj\Debug\net10.0\work.sourcelink.json
